@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java language
 - 💞️ I’m looking to collaborate on devloping projects
 - 📫 How to reach me ? no:9901996420,siazadmehadi@gmail.com
-- 😄 Pronouns: shahzad
+- 😄 Pronouns: HE/SHE;shahzad
 - ⚡ Fun fact: ...
 
 <!---
