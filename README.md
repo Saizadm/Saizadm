@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saizadmehadi
 - 👀 I’m interested in leraning programming languages and creating new real world projects 
-- 🌱 I’m currently learning java language
+- 🌱 I’m currently doing my bachelor in compuetr applications
 - 💞️ I’m looking to collaborate on devloping projects
 - 📫 How to reach me ? no:9901996420,siazadmehadi@gmail.com
 - 😄 Pronouns: HE/SHE;shahzad
